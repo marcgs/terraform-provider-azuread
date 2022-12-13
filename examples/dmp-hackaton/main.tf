@@ -30,7 +30,7 @@ locals {
     APP_ROLE23 = {
       description = "APP_ROLE23",
       value       = "app.role.23",
-      permissions = ["7d42b37a-ecf6-4c60-bf18-47fc4aa2735a", "9452d3c8-62df-43b6-b791-875fd05f0fb2"]
+      permissions = ["c93c22db-1047-4ef5-ad20-a708596109c2", "9452d3c8-62df-43b6-b791-875fd05f0fb2"]
     },
     APP_ROLE123 = {
       description = "APP_ROLE123",
@@ -82,4 +82,8 @@ resource "azuread_app_role_assignment" "role_assignments" {
   app_role_id         = azuread_application.example_app_reg.app_role_ids[each.value.role_name]
   principal_object_id = each.value.group
   resource_object_id  = azuread_service_principal.example_sp.object_id
+}
+
+output "sp_display_name" {
+  value = azuread_service_principal.example_sp.display_name
 }

@@ -1,43 +1,7 @@
 data "azuread_client_config" "current" {}
 
 locals {
-  app_roles_example = {
-    APP_ROLE1 = {
-      description = "APP_ROLE1",
-      value       = "app.role.1",
-      permissions = ["7d42b37a-ecf6-4c60-bf18-47fc4aa2735a"]
-    },
-    APP_ROLE2 = {
-      description = "APP_ROLE2",
-      value       = "app.role.2",
-      permissions = ["c93c22db-1047-4ef5-ad20-a708596109c2"]
-    },
-    APP_ROLE3 = {
-      description = "APP_ROLE3",
-      value       = "app.role.3",
-      permissions = ["9452d3c8-62df-43b6-b791-875fd05f0fb2"]
-    },
-    APP_ROLE12 = {
-      description = "APP_ROLE12",
-      value       = "app.role.12",
-      permissions = ["7d42b37a-ecf6-4c60-bf18-47fc4aa2735a", "c93c22db-1047-4ef5-ad20-a708596109c2"]
-    },
-    APP_ROLE13 = {
-      description = "APP_ROLE13",
-      value       = "app.role.13",
-      permissions = ["7d42b37a-ecf6-4c60-bf18-47fc4aa2735a", "9452d3c8-62df-43b6-b791-875fd05f0fb2"]
-    },
-    APP_ROLE23 = {
-      description = "APP_ROLE23",
-      value       = "app.role.23",
-      permissions = ["c93c22db-1047-4ef5-ad20-a708596109c2", "9452d3c8-62df-43b6-b791-875fd05f0fb2"]
-    },
-    APP_ROLE123 = {
-      description = "APP_ROLE123",
-      value       = "app.role.123",
-      permissions = ["7d42b37a-ecf6-4c60-bf18-47fc4aa2735a", "c93c22db-1047-4ef5-ad20-a708596109c2", "9452d3c8-62df-43b6-b791-875fd05f0fb2"]
-    },
-  }
+  app_roles_example = jsondecode(file("roles.json"))
   list_of_assignments = flatten([
     for displayrolename, approle in local.app_roles_example : [
       for appvalue, groups in approle.permissions : {

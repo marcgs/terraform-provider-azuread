@@ -1,0 +1,23 @@
+{
+  "APP_ROLE1": {
+    "description": "APP_ROLE1",
+    "value": "app.role.1",
+    "permissions": [
+      "7d42b37a-ecf6-4c60-bf18-47fc4aa2735a"
+    ]
+  },
+  "APP_ROLE2": {
+    "description": "APP_ROLE2",
+    "value": "app.role.2",
+    "permissions": [
+      "c93c22db-1047-4ef5-ad20-a708596109c2"
+    ]
+  },
+  "APP_ROLE3": {
+    "description": "APP_ROLE3",
+    "value": "app.role.3",
+    "permissions": [
+      "9452d3c8-62df-43b6-b791-875fd05f0fb2"
+    ]
+  }
+}

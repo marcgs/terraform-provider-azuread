@@ -1,9 +1,9 @@
 data "azuread_client_config" "current" {}
 
 locals {
-  app_roles_example = jsondecode(file("roles.json"))
+  app_roles = jsondecode(file("app_roles_json/roles.json"))
   list_of_assignments = flatten([
-    for displayrolename, approle in local.app_roles_example : [
+    for displayrolename, approle in local.app_roles : [
       for appvalue, groups in approle.permissions : {
         role_name = approle.value
         group     = groups
@@ -13,7 +13,7 @@ locals {
 }
 
 resource "random_uuid" "uuid_example" {
-  for_each = local.app_roles_example
+  for_each = local.app_roles
 }
 
 resource "azuread_application" "example_app_reg" {
@@ -22,7 +22,7 @@ resource "azuread_application" "example_app_reg" {
   group_membership_claims = ["All"]
 
   dynamic "app_role" {
-    for_each = local.app_roles_example
+    for_each = local.app_roles
     content {
       allowed_member_types = ["User", "Application"]
       description          = app_role.value.description

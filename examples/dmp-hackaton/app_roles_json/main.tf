@@ -1,5 +1,5 @@
 locals {
-  count = 400
+  count = 100
 }
 
 data "template_file" "app_roles" {

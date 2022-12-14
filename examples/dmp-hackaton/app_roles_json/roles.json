@@ -9,49 +9,49 @@
     "description": "APP_ROLE2",
     "value": "app.role.2",
     "permissions": [
-        "c93c22db-1047-4ef5-ad20-a708596109c2"
+        "7d42b37a-ecf6-4c60-bf18-47fc4aa2735a"
     ]
   }
 ,  "APP_ROLE3": {
     "description": "APP_ROLE3",
     "value": "app.role.3",
     "permissions": [
-        "7d42b37a-ecf6-4c60-bf18-47fc4aa2735a"
+        "c93c22db-1047-4ef5-ad20-a708596109c2"
     ]
   }
 ,  "APP_ROLE4": {
     "description": "APP_ROLE4",
     "value": "app.role.4",
     "permissions": [
-        "7d42b37a-ecf6-4c60-bf18-47fc4aa2735a"
+        "c93c22db-1047-4ef5-ad20-a708596109c2"
     ]
   }
 ,  "APP_ROLE5": {
     "description": "APP_ROLE5",
     "value": "app.role.5",
     "permissions": [
-        "9452d3c8-62df-43b6-b791-875fd05f0fb2"
+        "7d42b37a-ecf6-4c60-bf18-47fc4aa2735a"
     ]
   }
 ,  "APP_ROLE6": {
     "description": "APP_ROLE6",
     "value": "app.role.6",
     "permissions": [
-        "c93c22db-1047-4ef5-ad20-a708596109c2"
+        "9452d3c8-62df-43b6-b791-875fd05f0fb2"
     ]
   }
 ,  "APP_ROLE7": {
     "description": "APP_ROLE7",
     "value": "app.role.7",
     "permissions": [
-        "c93c22db-1047-4ef5-ad20-a708596109c2"
+        "7d42b37a-ecf6-4c60-bf18-47fc4aa2735a"
     ]
   }
 ,  "APP_ROLE8": {
     "description": "APP_ROLE8",
     "value": "app.role.8",
     "permissions": [
-        "7d42b37a-ecf6-4c60-bf18-47fc4aa2735a"
+        "c93c22db-1047-4ef5-ad20-a708596109c2"
     ]
   }
 ,  "APP_ROLE9": {
@@ -65,14 +65,14 @@
     "description": "APP_ROLE10",
     "value": "app.role.10",
     "permissions": [
-        "9452d3c8-62df-43b6-b791-875fd05f0fb2"
+        "c93c22db-1047-4ef5-ad20-a708596109c2"
     ]
   }
 ,  "APP_ROLE11": {
     "description": "APP_ROLE11",
     "value": "app.role.11",
     "permissions": [
-        "c93c22db-1047-4ef5-ad20-a708596109c2"
+        "9452d3c8-62df-43b6-b791-875fd05f0fb2"
     ]
   }
 ,  "APP_ROLE12": {
@@ -86,14 +86,14 @@
     "description": "APP_ROLE13",
     "value": "app.role.13",
     "permissions": [
-        "7d42b37a-ecf6-4c60-bf18-47fc4aa2735a"
+        "c93c22db-1047-4ef5-ad20-a708596109c2"
     ]
   }
 ,  "APP_ROLE14": {
     "description": "APP_ROLE14",
     "value": "app.role.14",
     "permissions": [
-        "c93c22db-1047-4ef5-ad20-a708596109c2"
+        "7d42b37a-ecf6-4c60-bf18-47fc4aa2735a"
     ]
   }
 ,  "APP_ROLE15": {
@@ -114,21 +114,21 @@
     "description": "APP_ROLE17",
     "value": "app.role.17",
     "permissions": [
-        "9452d3c8-62df-43b6-b791-875fd05f0fb2"
+        "7d42b37a-ecf6-4c60-bf18-47fc4aa2735a"
     ]
   }
 ,  "APP_ROLE18": {
     "description": "APP_ROLE18",
     "value": "app.role.18",
     "permissions": [
-        "7d42b37a-ecf6-4c60-bf18-47fc4aa2735a"
+        "9452d3c8-62df-43b6-b791-875fd05f0fb2"
     ]
   }
 ,  "APP_ROLE19": {
     "description": "APP_ROLE19",
     "value": "app.role.19",
     "permissions": [
-        "7d42b37a-ecf6-4c60-bf18-47fc4aa2735a"
+        "9452d3c8-62df-43b6-b791-875fd05f0fb2"
     ]
   }
 ,  "APP_ROLE20": {
@@ -142,21 +142,21 @@
     "description": "APP_ROLE21",
     "value": "app.role.21",
     "permissions": [
-        "9452d3c8-62df-43b6-b791-875fd05f0fb2"
+        "7d42b37a-ecf6-4c60-bf18-47fc4aa2735a"
     ]
   }
 ,  "APP_ROLE22": {
     "description": "APP_ROLE22",
     "value": "app.role.22",
     "permissions": [
-        "7d42b37a-ecf6-4c60-bf18-47fc4aa2735a"
+        "9452d3c8-62df-43b6-b791-875fd05f0fb2"
     ]
   }
 ,  "APP_ROLE23": {
     "description": "APP_ROLE23",
     "value": "app.role.23",
     "permissions": [
-        "9452d3c8-62df-43b6-b791-875fd05f0fb2"
+        "7d42b37a-ecf6-4c60-bf18-47fc4aa2735a"
     ]
   }
 ,  "APP_ROLE24": {
@@ -170,7 +170,7 @@
     "description": "APP_ROLE25",
     "value": "app.role.25",
     "permissions": [
-        "7d42b37a-ecf6-4c60-bf18-47fc4aa2735a"
+        "c93c22db-1047-4ef5-ad20-a708596109c2"
     ]
   }
 ,  "APP_ROLE26": {
@@ -184,63 +184,63 @@
     "description": "APP_ROLE27",
     "value": "app.role.27",
     "permissions": [
-        "c93c22db-1047-4ef5-ad20-a708596109c2"
+        "7d42b37a-ecf6-4c60-bf18-47fc4aa2735a"
     ]
   }
 ,  "APP_ROLE28": {
     "description": "APP_ROLE28",
     "value": "app.role.28",
     "permissions": [
-        "c93c22db-1047-4ef5-ad20-a708596109c2"
+        "7d42b37a-ecf6-4c60-bf18-47fc4aa2735a"
     ]
   }
 ,  "APP_ROLE29": {
     "description": "APP_ROLE29",
     "value": "app.role.29",
     "permissions": [
-        "9452d3c8-62df-43b6-b791-875fd05f0fb2"
+        "c93c22db-1047-4ef5-ad20-a708596109c2"
     ]
   }
 ,  "APP_ROLE30": {
     "description": "APP_ROLE30",
     "value": "app.role.30",
     "permissions": [
-        "7d42b37a-ecf6-4c60-bf18-47fc4aa2735a"
+        "9452d3c8-62df-43b6-b791-875fd05f0fb2"
     ]
   }
 ,  "APP_ROLE31": {
     "description": "APP_ROLE31",
     "value": "app.role.31",
     "permissions": [
-        "9452d3c8-62df-43b6-b791-875fd05f0fb2"
+        "c93c22db-1047-4ef5-ad20-a708596109c2"
     ]
   }
 ,  "APP_ROLE32": {
     "description": "APP_ROLE32",
     "value": "app.role.32",
     "permissions": [
-        "c93c22db-1047-4ef5-ad20-a708596109c2"
+        "7d42b37a-ecf6-4c60-bf18-47fc4aa2735a"
     ]
   }
 ,  "APP_ROLE33": {
     "description": "APP_ROLE33",
     "value": "app.role.33",
     "permissions": [
-        "7d42b37a-ecf6-4c60-bf18-47fc4aa2735a"
+        "9452d3c8-62df-43b6-b791-875fd05f0fb2"
     ]
   }
 ,  "APP_ROLE34": {
     "description": "APP_ROLE34",
     "value": "app.role.34",
     "permissions": [
-        "c93c22db-1047-4ef5-ad20-a708596109c2"
+        "7d42b37a-ecf6-4c60-bf18-47fc4aa2735a"
     ]
   }
 ,  "APP_ROLE35": {
     "description": "APP_ROLE35",
     "value": "app.role.35",
     "permissions": [
-        "7d42b37a-ecf6-4c60-bf18-47fc4aa2735a"
+        "c93c22db-1047-4ef5-ad20-a708596109c2"
     ]
   }
 ,  "APP_ROLE36": {
@@ -254,28 +254,28 @@
     "description": "APP_ROLE37",
     "value": "app.role.37",
     "permissions": [
-        "c93c22db-1047-4ef5-ad20-a708596109c2"
+        "7d42b37a-ecf6-4c60-bf18-47fc4aa2735a"
     ]
   }
 ,  "APP_ROLE38": {
     "description": "APP_ROLE38",
     "value": "app.role.38",
     "permissions": [
-        "9452d3c8-62df-43b6-b791-875fd05f0fb2"
+        "c93c22db-1047-4ef5-ad20-a708596109c2"
     ]
   }
 ,  "APP_ROLE39": {
     "description": "APP_ROLE39",
     "value": "app.role.39",
     "permissions": [
-        "7d42b37a-ecf6-4c60-bf18-47fc4aa2735a"
+        "9452d3c8-62df-43b6-b791-875fd05f0fb2"
     ]
   }
 ,  "APP_ROLE40": {
     "description": "APP_ROLE40",
     "value": "app.role.40",
     "permissions": [
-        "c93c22db-1047-4ef5-ad20-a708596109c2"
+        "7d42b37a-ecf6-4c60-bf18-47fc4aa2735a"
     ]
   }
 ,  "APP_ROLE41": {
@@ -289,14 +289,14 @@
     "description": "APP_ROLE42",
     "value": "app.role.42",
     "permissions": [
-        "7d42b37a-ecf6-4c60-bf18-47fc4aa2735a"
+        "c93c22db-1047-4ef5-ad20-a708596109c2"
     ]
   }
 ,  "APP_ROLE43": {
     "description": "APP_ROLE43",
     "value": "app.role.43",
     "permissions": [
-        "9452d3c8-62df-43b6-b791-875fd05f0fb2"
+        "7d42b37a-ecf6-4c60-bf18-47fc4aa2735a"
     ]
   }
 ,  "APP_ROLE44": {
@@ -310,14 +310,14 @@
     "description": "APP_ROLE45",
     "value": "app.role.45",
     "permissions": [
-        "7d42b37a-ecf6-4c60-bf18-47fc4aa2735a"
+        "9452d3c8-62df-43b6-b791-875fd05f0fb2"
     ]
   }
 ,  "APP_ROLE46": {
     "description": "APP_ROLE46",
     "value": "app.role.46",
     "permissions": [
-        "7d42b37a-ecf6-4c60-bf18-47fc4aa2735a"
+        "9452d3c8-62df-43b6-b791-875fd05f0fb2"
     ]
   }
 ,  "APP_ROLE47": {
@@ -331,63 +331,63 @@
     "description": "APP_ROLE48",
     "value": "app.role.48",
     "permissions": [
-        "9452d3c8-62df-43b6-b791-875fd05f0fb2"
+        "7d42b37a-ecf6-4c60-bf18-47fc4aa2735a"
     ]
   }
 ,  "APP_ROLE49": {
     "description": "APP_ROLE49",
     "value": "app.role.49",
     "permissions": [
-        "7d42b37a-ecf6-4c60-bf18-47fc4aa2735a"
+        "9452d3c8-62df-43b6-b791-875fd05f0fb2"
     ]
   }
 ,  "APP_ROLE50": {
     "description": "APP_ROLE50",
     "value": "app.role.50",
     "permissions": [
-        "c93c22db-1047-4ef5-ad20-a708596109c2"
+        "7d42b37a-ecf6-4c60-bf18-47fc4aa2735a"
     ]
   }
 ,  "APP_ROLE51": {
     "description": "APP_ROLE51",
     "value": "app.role.51",
     "permissions": [
-        "9452d3c8-62df-43b6-b791-875fd05f0fb2"
+        "c93c22db-1047-4ef5-ad20-a708596109c2"
     ]
   }
 ,  "APP_ROLE52": {
     "description": "APP_ROLE52",
     "value": "app.role.52",
     "permissions": [
-        "7d42b37a-ecf6-4c60-bf18-47fc4aa2735a"
+        "9452d3c8-62df-43b6-b791-875fd05f0fb2"
     ]
   }
 ,  "APP_ROLE53": {
     "description": "APP_ROLE53",
     "value": "app.role.53",
     "permissions": [
-        "9452d3c8-62df-43b6-b791-875fd05f0fb2"
+        "c93c22db-1047-4ef5-ad20-a708596109c2"
     ]
   }
 ,  "APP_ROLE54": {
     "description": "APP_ROLE54",
     "value": "app.role.54",
     "permissions": [
-        "c93c22db-1047-4ef5-ad20-a708596109c2"
+        "7d42b37a-ecf6-4c60-bf18-47fc4aa2735a"
     ]
   }
 ,  "APP_ROLE55": {
     "description": "APP_ROLE55",
     "value": "app.role.55",
     "permissions": [
-        "7d42b37a-ecf6-4c60-bf18-47fc4aa2735a"
+        "c93c22db-1047-4ef5-ad20-a708596109c2"
     ]
   }
 ,  "APP_ROLE56": {
     "description": "APP_ROLE56",
     "value": "app.role.56",
     "permissions": [
-        "c93c22db-1047-4ef5-ad20-a708596109c2"
+        "7d42b37a-ecf6-4c60-bf18-47fc4aa2735a"
     ]
   }
 ,  "APP_ROLE57": {
@@ -401,14 +401,14 @@
     "description": "APP_ROLE58",
     "value": "app.role.58",
     "permissions": [
-        "9452d3c8-62df-43b6-b791-875fd05f0fb2"
+        "c93c22db-1047-4ef5-ad20-a708596109c2"
     ]
   }
 ,  "APP_ROLE59": {
     "description": "APP_ROLE59",
     "value": "app.role.59",
     "permissions": [
-        "c93c22db-1047-4ef5-ad20-a708596109c2"
+        "9452d3c8-62df-43b6-b791-875fd05f0fb2"
     ]
   }
 ,  "APP_ROLE60": {
@@ -443,42 +443,42 @@
     "description": "APP_ROLE64",
     "value": "app.role.64",
     "permissions": [
-        "9452d3c8-62df-43b6-b791-875fd05f0fb2"
+        "7d42b37a-ecf6-4c60-bf18-47fc4aa2735a"
     ]
   }
 ,  "APP_ROLE65": {
     "description": "APP_ROLE65",
     "value": "app.role.65",
     "permissions": [
-        "c93c22db-1047-4ef5-ad20-a708596109c2"
+        "9452d3c8-62df-43b6-b791-875fd05f0fb2"
     ]
   }
 ,  "APP_ROLE66": {
     "description": "APP_ROLE66",
     "value": "app.role.66",
     "permissions": [
-        "7d42b37a-ecf6-4c60-bf18-47fc4aa2735a"
+        "c93c22db-1047-4ef5-ad20-a708596109c2"
     ]
   }
 ,  "APP_ROLE67": {
     "description": "APP_ROLE67",
     "value": "app.role.67",
     "permissions": [
-        "9452d3c8-62df-43b6-b791-875fd05f0fb2"
+        "c93c22db-1047-4ef5-ad20-a708596109c2"
     ]
   }
 ,  "APP_ROLE68": {
     "description": "APP_ROLE68",
     "value": "app.role.68",
     "permissions": [
-        "7d42b37a-ecf6-4c60-bf18-47fc4aa2735a"
+        "9452d3c8-62df-43b6-b791-875fd05f0fb2"
     ]
   }
 ,  "APP_ROLE69": {
     "description": "APP_ROLE69",
     "value": "app.role.69",
     "permissions": [
-        "c93c22db-1047-4ef5-ad20-a708596109c2"
+        "7d42b37a-ecf6-4c60-bf18-47fc4aa2735a"
     ]
   }
 ,  "APP_ROLE70": {
@@ -506,28 +506,28 @@
     "description": "APP_ROLE73",
     "value": "app.role.73",
     "permissions": [
-        "7d42b37a-ecf6-4c60-bf18-47fc4aa2735a"
+        "c93c22db-1047-4ef5-ad20-a708596109c2"
     ]
   }
 ,  "APP_ROLE74": {
     "description": "APP_ROLE74",
     "value": "app.role.74",
     "permissions": [
-        "c93c22db-1047-4ef5-ad20-a708596109c2"
+        "9452d3c8-62df-43b6-b791-875fd05f0fb2"
     ]
   }
 ,  "APP_ROLE75": {
     "description": "APP_ROLE75",
     "value": "app.role.75",
     "permissions": [
-        "9452d3c8-62df-43b6-b791-875fd05f0fb2"
+        "7d42b37a-ecf6-4c60-bf18-47fc4aa2735a"
     ]
   }
 ,  "APP_ROLE76": {
     "description": "APP_ROLE76",
     "value": "app.role.76",
     "permissions": [
-        "7d42b37a-ecf6-4c60-bf18-47fc4aa2735a"
+        "c93c22db-1047-4ef5-ad20-a708596109c2"
     ]
   }
 ,  "APP_ROLE77": {
@@ -541,7 +541,7 @@
     "description": "APP_ROLE78",
     "value": "app.role.78",
     "permissions": [
-        "c93c22db-1047-4ef5-ad20-a708596109c2"
+        "7d42b37a-ecf6-4c60-bf18-47fc4aa2735a"
     ]
   }
 ,  "APP_ROLE79": {
@@ -590,35 +590,35 @@
     "description": "APP_ROLE85",
     "value": "app.role.85",
     "permissions": [
-        "9452d3c8-62df-43b6-b791-875fd05f0fb2"
+        "7d42b37a-ecf6-4c60-bf18-47fc4aa2735a"
     ]
   }
 ,  "APP_ROLE86": {
     "description": "APP_ROLE86",
     "value": "app.role.86",
     "permissions": [
-        "c93c22db-1047-4ef5-ad20-a708596109c2"
+        "9452d3c8-62df-43b6-b791-875fd05f0fb2"
     ]
   }
 ,  "APP_ROLE87": {
     "description": "APP_ROLE87",
     "value": "app.role.87",
     "permissions": [
-        "7d42b37a-ecf6-4c60-bf18-47fc4aa2735a"
+        "c93c22db-1047-4ef5-ad20-a708596109c2"
     ]
   }
 ,  "APP_ROLE88": {
     "description": "APP_ROLE88",
     "value": "app.role.88",
     "permissions": [
-        "9452d3c8-62df-43b6-b791-875fd05f0fb2"
+        "c93c22db-1047-4ef5-ad20-a708596109c2"
     ]
   }
 ,  "APP_ROLE89": {
     "description": "APP_ROLE89",
     "value": "app.role.89",
     "permissions": [
-        "c93c22db-1047-4ef5-ad20-a708596109c2"
+        "9452d3c8-62df-43b6-b791-875fd05f0fb2"
     ]
   }
 ,  "APP_ROLE90": {
@@ -632,7 +632,7 @@
     "description": "APP_ROLE91",
     "value": "app.role.91",
     "permissions": [
-        "7d42b37a-ecf6-4c60-bf18-47fc4aa2735a"
+        "9452d3c8-62df-43b6-b791-875fd05f0fb2"
     ]
   }
 ,  "APP_ROLE92": {
@@ -646,21 +646,21 @@
     "description": "APP_ROLE93",
     "value": "app.role.93",
     "permissions": [
-        "9452d3c8-62df-43b6-b791-875fd05f0fb2"
+        "7d42b37a-ecf6-4c60-bf18-47fc4aa2735a"
     ]
   }
 ,  "APP_ROLE94": {
     "description": "APP_ROLE94",
     "value": "app.role.94",
     "permissions": [
-        "9452d3c8-62df-43b6-b791-875fd05f0fb2"
+        "7d42b37a-ecf6-4c60-bf18-47fc4aa2735a"
     ]
   }
 ,  "APP_ROLE95": {
     "description": "APP_ROLE95",
     "value": "app.role.95",
     "permissions": [
-        "7d42b37a-ecf6-4c60-bf18-47fc4aa2735a"
+        "9452d3c8-62df-43b6-b791-875fd05f0fb2"
     ]
   }
 ,  "APP_ROLE96": {
@@ -695,2107 +695,7 @@
     "description": "APP_ROLE100",
     "value": "app.role.100",
     "permissions": [
-        "c93c22db-1047-4ef5-ad20-a708596109c2"
-    ]
-  }
-,  "APP_ROLE101": {
-    "description": "APP_ROLE101",
-    "value": "app.role.101",
-    "permissions": [
-        "9452d3c8-62df-43b6-b791-875fd05f0fb2"
-    ]
-  }
-,  "APP_ROLE102": {
-    "description": "APP_ROLE102",
-    "value": "app.role.102",
-    "permissions": [
         "7d42b37a-ecf6-4c60-bf18-47fc4aa2735a"
-    ]
-  }
-,  "APP_ROLE103": {
-    "description": "APP_ROLE103",
-    "value": "app.role.103",
-    "permissions": [
-        "9452d3c8-62df-43b6-b791-875fd05f0fb2"
-    ]
-  }
-,  "APP_ROLE104": {
-    "description": "APP_ROLE104",
-    "value": "app.role.104",
-    "permissions": [
-        "c93c22db-1047-4ef5-ad20-a708596109c2"
-    ]
-  }
-,  "APP_ROLE105": {
-    "description": "APP_ROLE105",
-    "value": "app.role.105",
-    "permissions": [
-        "7d42b37a-ecf6-4c60-bf18-47fc4aa2735a"
-    ]
-  }
-,  "APP_ROLE106": {
-    "description": "APP_ROLE106",
-    "value": "app.role.106",
-    "permissions": [
-        "7d42b37a-ecf6-4c60-bf18-47fc4aa2735a"
-    ]
-  }
-,  "APP_ROLE107": {
-    "description": "APP_ROLE107",
-    "value": "app.role.107",
-    "permissions": [
-        "c93c22db-1047-4ef5-ad20-a708596109c2"
-    ]
-  }
-,  "APP_ROLE108": {
-    "description": "APP_ROLE108",
-    "value": "app.role.108",
-    "permissions": [
-        "9452d3c8-62df-43b6-b791-875fd05f0fb2"
-    ]
-  }
-,  "APP_ROLE109": {
-    "description": "APP_ROLE109",
-    "value": "app.role.109",
-    "permissions": [
-        "7d42b37a-ecf6-4c60-bf18-47fc4aa2735a"
-    ]
-  }
-,  "APP_ROLE110": {
-    "description": "APP_ROLE110",
-    "value": "app.role.110",
-    "permissions": [
-        "c93c22db-1047-4ef5-ad20-a708596109c2"
-    ]
-  }
-,  "APP_ROLE111": {
-    "description": "APP_ROLE111",
-    "value": "app.role.111",
-    "permissions": [
-        "9452d3c8-62df-43b6-b791-875fd05f0fb2"
-    ]
-  }
-,  "APP_ROLE112": {
-    "description": "APP_ROLE112",
-    "value": "app.role.112",
-    "permissions": [
-        "c93c22db-1047-4ef5-ad20-a708596109c2"
-    ]
-  }
-,  "APP_ROLE113": {
-    "description": "APP_ROLE113",
-    "value": "app.role.113",
-    "permissions": [
-        "9452d3c8-62df-43b6-b791-875fd05f0fb2"
-    ]
-  }
-,  "APP_ROLE114": {
-    "description": "APP_ROLE114",
-    "value": "app.role.114",
-    "permissions": [
-        "7d42b37a-ecf6-4c60-bf18-47fc4aa2735a"
-    ]
-  }
-,  "APP_ROLE115": {
-    "description": "APP_ROLE115",
-    "value": "app.role.115",
-    "permissions": [
-        "9452d3c8-62df-43b6-b791-875fd05f0fb2"
-    ]
-  }
-,  "APP_ROLE116": {
-    "description": "APP_ROLE116",
-    "value": "app.role.116",
-    "permissions": [
-        "7d42b37a-ecf6-4c60-bf18-47fc4aa2735a"
-    ]
-  }
-,  "APP_ROLE117": {
-    "description": "APP_ROLE117",
-    "value": "app.role.117",
-    "permissions": [
-        "c93c22db-1047-4ef5-ad20-a708596109c2"
-    ]
-  }
-,  "APP_ROLE118": {
-    "description": "APP_ROLE118",
-    "value": "app.role.118",
-    "permissions": [
-        "7d42b37a-ecf6-4c60-bf18-47fc4aa2735a"
-    ]
-  }
-,  "APP_ROLE119": {
-    "description": "APP_ROLE119",
-    "value": "app.role.119",
-    "permissions": [
-        "9452d3c8-62df-43b6-b791-875fd05f0fb2"
-    ]
-  }
-,  "APP_ROLE120": {
-    "description": "APP_ROLE120",
-    "value": "app.role.120",
-    "permissions": [
-        "c93c22db-1047-4ef5-ad20-a708596109c2"
-    ]
-  }
-,  "APP_ROLE121": {
-    "description": "APP_ROLE121",
-    "value": "app.role.121",
-    "permissions": [
-        "c93c22db-1047-4ef5-ad20-a708596109c2"
-    ]
-  }
-,  "APP_ROLE122": {
-    "description": "APP_ROLE122",
-    "value": "app.role.122",
-    "permissions": [
-        "9452d3c8-62df-43b6-b791-875fd05f0fb2"
-    ]
-  }
-,  "APP_ROLE123": {
-    "description": "APP_ROLE123",
-    "value": "app.role.123",
-    "permissions": [
-        "7d42b37a-ecf6-4c60-bf18-47fc4aa2735a"
-    ]
-  }
-,  "APP_ROLE124": {
-    "description": "APP_ROLE124",
-    "value": "app.role.124",
-    "permissions": [
-        "9452d3c8-62df-43b6-b791-875fd05f0fb2"
-    ]
-  }
-,  "APP_ROLE125": {
-    "description": "APP_ROLE125",
-    "value": "app.role.125",
-    "permissions": [
-        "7d42b37a-ecf6-4c60-bf18-47fc4aa2735a"
-    ]
-  }
-,  "APP_ROLE126": {
-    "description": "APP_ROLE126",
-    "value": "app.role.126",
-    "permissions": [
-        "c93c22db-1047-4ef5-ad20-a708596109c2"
-    ]
-  }
-,  "APP_ROLE127": {
-    "description": "APP_ROLE127",
-    "value": "app.role.127",
-    "permissions": [
-        "c93c22db-1047-4ef5-ad20-a708596109c2"
-    ]
-  }
-,  "APP_ROLE128": {
-    "description": "APP_ROLE128",
-    "value": "app.role.128",
-    "permissions": [
-        "7d42b37a-ecf6-4c60-bf18-47fc4aa2735a"
-    ]
-  }
-,  "APP_ROLE129": {
-    "description": "APP_ROLE129",
-    "value": "app.role.129",
-    "permissions": [
-        "9452d3c8-62df-43b6-b791-875fd05f0fb2"
-    ]
-  }
-,  "APP_ROLE130": {
-    "description": "APP_ROLE130",
-    "value": "app.role.130",
-    "permissions": [
-        "c93c22db-1047-4ef5-ad20-a708596109c2"
-    ]
-  }
-,  "APP_ROLE131": {
-    "description": "APP_ROLE131",
-    "value": "app.role.131",
-    "permissions": [
-        "7d42b37a-ecf6-4c60-bf18-47fc4aa2735a"
-    ]
-  }
-,  "APP_ROLE132": {
-    "description": "APP_ROLE132",
-    "value": "app.role.132",
-    "permissions": [
-        "9452d3c8-62df-43b6-b791-875fd05f0fb2"
-    ]
-  }
-,  "APP_ROLE133": {
-    "description": "APP_ROLE133",
-    "value": "app.role.133",
-    "permissions": [
-        "7d42b37a-ecf6-4c60-bf18-47fc4aa2735a"
-    ]
-  }
-,  "APP_ROLE134": {
-    "description": "APP_ROLE134",
-    "value": "app.role.134",
-    "permissions": [
-        "9452d3c8-62df-43b6-b791-875fd05f0fb2"
-    ]
-  }
-,  "APP_ROLE135": {
-    "description": "APP_ROLE135",
-    "value": "app.role.135",
-    "permissions": [
-        "c93c22db-1047-4ef5-ad20-a708596109c2"
-    ]
-  }
-,  "APP_ROLE136": {
-    "description": "APP_ROLE136",
-    "value": "app.role.136",
-    "permissions": [
-        "9452d3c8-62df-43b6-b791-875fd05f0fb2"
-    ]
-  }
-,  "APP_ROLE137": {
-    "description": "APP_ROLE137",
-    "value": "app.role.137",
-    "permissions": [
-        "7d42b37a-ecf6-4c60-bf18-47fc4aa2735a"
-    ]
-  }
-,  "APP_ROLE138": {
-    "description": "APP_ROLE138",
-    "value": "app.role.138",
-    "permissions": [
-        "c93c22db-1047-4ef5-ad20-a708596109c2"
-    ]
-  }
-,  "APP_ROLE139": {
-    "description": "APP_ROLE139",
-    "value": "app.role.139",
-    "permissions": [
-        "9452d3c8-62df-43b6-b791-875fd05f0fb2"
-    ]
-  }
-,  "APP_ROLE140": {
-    "description": "APP_ROLE140",
-    "value": "app.role.140",
-    "permissions": [
-        "c93c22db-1047-4ef5-ad20-a708596109c2"
-    ]
-  }
-,  "APP_ROLE141": {
-    "description": "APP_ROLE141",
-    "value": "app.role.141",
-    "permissions": [
-        "7d42b37a-ecf6-4c60-bf18-47fc4aa2735a"
-    ]
-  }
-,  "APP_ROLE142": {
-    "description": "APP_ROLE142",
-    "value": "app.role.142",
-    "permissions": [
-        "9452d3c8-62df-43b6-b791-875fd05f0fb2"
-    ]
-  }
-,  "APP_ROLE143": {
-    "description": "APP_ROLE143",
-    "value": "app.role.143",
-    "permissions": [
-        "c93c22db-1047-4ef5-ad20-a708596109c2"
-    ]
-  }
-,  "APP_ROLE144": {
-    "description": "APP_ROLE144",
-    "value": "app.role.144",
-    "permissions": [
-        "7d42b37a-ecf6-4c60-bf18-47fc4aa2735a"
-    ]
-  }
-,  "APP_ROLE145": {
-    "description": "APP_ROLE145",
-    "value": "app.role.145",
-    "permissions": [
-        "c93c22db-1047-4ef5-ad20-a708596109c2"
-    ]
-  }
-,  "APP_ROLE146": {
-    "description": "APP_ROLE146",
-    "value": "app.role.146",
-    "permissions": [
-        "9452d3c8-62df-43b6-b791-875fd05f0fb2"
-    ]
-  }
-,  "APP_ROLE147": {
-    "description": "APP_ROLE147",
-    "value": "app.role.147",
-    "permissions": [
-        "7d42b37a-ecf6-4c60-bf18-47fc4aa2735a"
-    ]
-  }
-,  "APP_ROLE148": {
-    "description": "APP_ROLE148",
-    "value": "app.role.148",
-    "permissions": [
-        "9452d3c8-62df-43b6-b791-875fd05f0fb2"
-    ]
-  }
-,  "APP_ROLE149": {
-    "description": "APP_ROLE149",
-    "value": "app.role.149",
-    "permissions": [
-        "7d42b37a-ecf6-4c60-bf18-47fc4aa2735a"
-    ]
-  }
-,  "APP_ROLE150": {
-    "description": "APP_ROLE150",
-    "value": "app.role.150",
-    "permissions": [
-        "c93c22db-1047-4ef5-ad20-a708596109c2"
-    ]
-  }
-,  "APP_ROLE151": {
-    "description": "APP_ROLE151",
-    "value": "app.role.151",
-    "permissions": [
-        "7d42b37a-ecf6-4c60-bf18-47fc4aa2735a"
-    ]
-  }
-,  "APP_ROLE152": {
-    "description": "APP_ROLE152",
-    "value": "app.role.152",
-    "permissions": [
-        "c93c22db-1047-4ef5-ad20-a708596109c2"
-    ]
-  }
-,  "APP_ROLE153": {
-    "description": "APP_ROLE153",
-    "value": "app.role.153",
-    "permissions": [
-        "9452d3c8-62df-43b6-b791-875fd05f0fb2"
-    ]
-  }
-,  "APP_ROLE154": {
-    "description": "APP_ROLE154",
-    "value": "app.role.154",
-    "permissions": [
-        "7d42b37a-ecf6-4c60-bf18-47fc4aa2735a"
-    ]
-  }
-,  "APP_ROLE155": {
-    "description": "APP_ROLE155",
-    "value": "app.role.155",
-    "permissions": [
-        "9452d3c8-62df-43b6-b791-875fd05f0fb2"
-    ]
-  }
-,  "APP_ROLE156": {
-    "description": "APP_ROLE156",
-    "value": "app.role.156",
-    "permissions": [
-        "c93c22db-1047-4ef5-ad20-a708596109c2"
-    ]
-  }
-,  "APP_ROLE157": {
-    "description": "APP_ROLE157",
-    "value": "app.role.157",
-    "permissions": [
-        "c93c22db-1047-4ef5-ad20-a708596109c2"
-    ]
-  }
-,  "APP_ROLE158": {
-    "description": "APP_ROLE158",
-    "value": "app.role.158",
-    "permissions": [
-        "9452d3c8-62df-43b6-b791-875fd05f0fb2"
-    ]
-  }
-,  "APP_ROLE159": {
-    "description": "APP_ROLE159",
-    "value": "app.role.159",
-    "permissions": [
-        "7d42b37a-ecf6-4c60-bf18-47fc4aa2735a"
-    ]
-  }
-,  "APP_ROLE160": {
-    "description": "APP_ROLE160",
-    "value": "app.role.160",
-    "permissions": [
-        "9452d3c8-62df-43b6-b791-875fd05f0fb2"
-    ]
-  }
-,  "APP_ROLE161": {
-    "description": "APP_ROLE161",
-    "value": "app.role.161",
-    "permissions": [
-        "c93c22db-1047-4ef5-ad20-a708596109c2"
-    ]
-  }
-,  "APP_ROLE162": {
-    "description": "APP_ROLE162",
-    "value": "app.role.162",
-    "permissions": [
-        "7d42b37a-ecf6-4c60-bf18-47fc4aa2735a"
-    ]
-  }
-,  "APP_ROLE163": {
-    "description": "APP_ROLE163",
-    "value": "app.role.163",
-    "permissions": [
-        "c93c22db-1047-4ef5-ad20-a708596109c2"
-    ]
-  }
-,  "APP_ROLE164": {
-    "description": "APP_ROLE164",
-    "value": "app.role.164",
-    "permissions": [
-        "7d42b37a-ecf6-4c60-bf18-47fc4aa2735a"
-    ]
-  }
-,  "APP_ROLE165": {
-    "description": "APP_ROLE165",
-    "value": "app.role.165",
-    "permissions": [
-        "9452d3c8-62df-43b6-b791-875fd05f0fb2"
-    ]
-  }
-,  "APP_ROLE166": {
-    "description": "APP_ROLE166",
-    "value": "app.role.166",
-    "permissions": [
-        "c93c22db-1047-4ef5-ad20-a708596109c2"
-    ]
-  }
-,  "APP_ROLE167": {
-    "description": "APP_ROLE167",
-    "value": "app.role.167",
-    "permissions": [
-        "9452d3c8-62df-43b6-b791-875fd05f0fb2"
-    ]
-  }
-,  "APP_ROLE168": {
-    "description": "APP_ROLE168",
-    "value": "app.role.168",
-    "permissions": [
-        "7d42b37a-ecf6-4c60-bf18-47fc4aa2735a"
-    ]
-  }
-,  "APP_ROLE169": {
-    "description": "APP_ROLE169",
-    "value": "app.role.169",
-    "permissions": [
-        "7d42b37a-ecf6-4c60-bf18-47fc4aa2735a"
-    ]
-  }
-,  "APP_ROLE170": {
-    "description": "APP_ROLE170",
-    "value": "app.role.170",
-    "permissions": [
-        "9452d3c8-62df-43b6-b791-875fd05f0fb2"
-    ]
-  }
-,  "APP_ROLE171": {
-    "description": "APP_ROLE171",
-    "value": "app.role.171",
-    "permissions": [
-        "c93c22db-1047-4ef5-ad20-a708596109c2"
-    ]
-  }
-,  "APP_ROLE172": {
-    "description": "APP_ROLE172",
-    "value": "app.role.172",
-    "permissions": [
-        "7d42b37a-ecf6-4c60-bf18-47fc4aa2735a"
-    ]
-  }
-,  "APP_ROLE173": {
-    "description": "APP_ROLE173",
-    "value": "app.role.173",
-    "permissions": [
-        "c93c22db-1047-4ef5-ad20-a708596109c2"
-    ]
-  }
-,  "APP_ROLE174": {
-    "description": "APP_ROLE174",
-    "value": "app.role.174",
-    "permissions": [
-        "9452d3c8-62df-43b6-b791-875fd05f0fb2"
-    ]
-  }
-,  "APP_ROLE175": {
-    "description": "APP_ROLE175",
-    "value": "app.role.175",
-    "permissions": [
-        "9452d3c8-62df-43b6-b791-875fd05f0fb2"
-    ]
-  }
-,  "APP_ROLE176": {
-    "description": "APP_ROLE176",
-    "value": "app.role.176",
-    "permissions": [
-        "7d42b37a-ecf6-4c60-bf18-47fc4aa2735a"
-    ]
-  }
-,  "APP_ROLE177": {
-    "description": "APP_ROLE177",
-    "value": "app.role.177",
-    "permissions": [
-        "c93c22db-1047-4ef5-ad20-a708596109c2"
-    ]
-  }
-,  "APP_ROLE178": {
-    "description": "APP_ROLE178",
-    "value": "app.role.178",
-    "permissions": [
-        "c93c22db-1047-4ef5-ad20-a708596109c2"
-    ]
-  }
-,  "APP_ROLE179": {
-    "description": "APP_ROLE179",
-    "value": "app.role.179",
-    "permissions": [
-        "9452d3c8-62df-43b6-b791-875fd05f0fb2"
-    ]
-  }
-,  "APP_ROLE180": {
-    "description": "APP_ROLE180",
-    "value": "app.role.180",
-    "permissions": [
-        "7d42b37a-ecf6-4c60-bf18-47fc4aa2735a"
-    ]
-  }
-,  "APP_ROLE181": {
-    "description": "APP_ROLE181",
-    "value": "app.role.181",
-    "permissions": [
-        "7d42b37a-ecf6-4c60-bf18-47fc4aa2735a"
-    ]
-  }
-,  "APP_ROLE182": {
-    "description": "APP_ROLE182",
-    "value": "app.role.182",
-    "permissions": [
-        "c93c22db-1047-4ef5-ad20-a708596109c2"
-    ]
-  }
-,  "APP_ROLE183": {
-    "description": "APP_ROLE183",
-    "value": "app.role.183",
-    "permissions": [
-        "9452d3c8-62df-43b6-b791-875fd05f0fb2"
-    ]
-  }
-,  "APP_ROLE184": {
-    "description": "APP_ROLE184",
-    "value": "app.role.184",
-    "permissions": [
-        "9452d3c8-62df-43b6-b791-875fd05f0fb2"
-    ]
-  }
-,  "APP_ROLE185": {
-    "description": "APP_ROLE185",
-    "value": "app.role.185",
-    "permissions": [
-        "c93c22db-1047-4ef5-ad20-a708596109c2"
-    ]
-  }
-,  "APP_ROLE186": {
-    "description": "APP_ROLE186",
-    "value": "app.role.186",
-    "permissions": [
-        "7d42b37a-ecf6-4c60-bf18-47fc4aa2735a"
-    ]
-  }
-,  "APP_ROLE187": {
-    "description": "APP_ROLE187",
-    "value": "app.role.187",
-    "permissions": [
-        "9452d3c8-62df-43b6-b791-875fd05f0fb2"
-    ]
-  }
-,  "APP_ROLE188": {
-    "description": "APP_ROLE188",
-    "value": "app.role.188",
-    "permissions": [
-        "c93c22db-1047-4ef5-ad20-a708596109c2"
-    ]
-  }
-,  "APP_ROLE189": {
-    "description": "APP_ROLE189",
-    "value": "app.role.189",
-    "permissions": [
-        "7d42b37a-ecf6-4c60-bf18-47fc4aa2735a"
-    ]
-  }
-,  "APP_ROLE190": {
-    "description": "APP_ROLE190",
-    "value": "app.role.190",
-    "permissions": [
-        "c93c22db-1047-4ef5-ad20-a708596109c2"
-    ]
-  }
-,  "APP_ROLE191": {
-    "description": "APP_ROLE191",
-    "value": "app.role.191",
-    "permissions": [
-        "9452d3c8-62df-43b6-b791-875fd05f0fb2"
-    ]
-  }
-,  "APP_ROLE192": {
-    "description": "APP_ROLE192",
-    "value": "app.role.192",
-    "permissions": [
-        "7d42b37a-ecf6-4c60-bf18-47fc4aa2735a"
-    ]
-  }
-,  "APP_ROLE193": {
-    "description": "APP_ROLE193",
-    "value": "app.role.193",
-    "permissions": [
-        "9452d3c8-62df-43b6-b791-875fd05f0fb2"
-    ]
-  }
-,  "APP_ROLE194": {
-    "description": "APP_ROLE194",
-    "value": "app.role.194",
-    "permissions": [
-        "7d42b37a-ecf6-4c60-bf18-47fc4aa2735a"
-    ]
-  }
-,  "APP_ROLE195": {
-    "description": "APP_ROLE195",
-    "value": "app.role.195",
-    "permissions": [
-        "c93c22db-1047-4ef5-ad20-a708596109c2"
-    ]
-  }
-,  "APP_ROLE196": {
-    "description": "APP_ROLE196",
-    "value": "app.role.196",
-    "permissions": [
-        "9452d3c8-62df-43b6-b791-875fd05f0fb2"
-    ]
-  }
-,  "APP_ROLE197": {
-    "description": "APP_ROLE197",
-    "value": "app.role.197",
-    "permissions": [
-        "c93c22db-1047-4ef5-ad20-a708596109c2"
-    ]
-  }
-,  "APP_ROLE198": {
-    "description": "APP_ROLE198",
-    "value": "app.role.198",
-    "permissions": [
-        "7d42b37a-ecf6-4c60-bf18-47fc4aa2735a"
-    ]
-  }
-,  "APP_ROLE199": {
-    "description": "APP_ROLE199",
-    "value": "app.role.199",
-    "permissions": [
-        "9452d3c8-62df-43b6-b791-875fd05f0fb2"
-    ]
-  }
-,  "APP_ROLE200": {
-    "description": "APP_ROLE200",
-    "value": "app.role.200",
-    "permissions": [
-        "c93c22db-1047-4ef5-ad20-a708596109c2"
-    ]
-  }
-,  "APP_ROLE201": {
-    "description": "APP_ROLE201",
-    "value": "app.role.201",
-    "permissions": [
-        "7d42b37a-ecf6-4c60-bf18-47fc4aa2735a"
-    ]
-  }
-,  "APP_ROLE202": {
-    "description": "APP_ROLE202",
-    "value": "app.role.202",
-    "permissions": [
-        "9452d3c8-62df-43b6-b791-875fd05f0fb2"
-    ]
-  }
-,  "APP_ROLE203": {
-    "description": "APP_ROLE203",
-    "value": "app.role.203",
-    "permissions": [
-        "7d42b37a-ecf6-4c60-bf18-47fc4aa2735a"
-    ]
-  }
-,  "APP_ROLE204": {
-    "description": "APP_ROLE204",
-    "value": "app.role.204",
-    "permissions": [
-        "c93c22db-1047-4ef5-ad20-a708596109c2"
-    ]
-  }
-,  "APP_ROLE205": {
-    "description": "APP_ROLE205",
-    "value": "app.role.205",
-    "permissions": [
-        "9452d3c8-62df-43b6-b791-875fd05f0fb2"
-    ]
-  }
-,  "APP_ROLE206": {
-    "description": "APP_ROLE206",
-    "value": "app.role.206",
-    "permissions": [
-        "c93c22db-1047-4ef5-ad20-a708596109c2"
-    ]
-  }
-,  "APP_ROLE207": {
-    "description": "APP_ROLE207",
-    "value": "app.role.207",
-    "permissions": [
-        "7d42b37a-ecf6-4c60-bf18-47fc4aa2735a"
-    ]
-  }
-,  "APP_ROLE208": {
-    "description": "APP_ROLE208",
-    "value": "app.role.208",
-    "permissions": [
-        "9452d3c8-62df-43b6-b791-875fd05f0fb2"
-    ]
-  }
-,  "APP_ROLE209": {
-    "description": "APP_ROLE209",
-    "value": "app.role.209",
-    "permissions": [
-        "c93c22db-1047-4ef5-ad20-a708596109c2"
-    ]
-  }
-,  "APP_ROLE210": {
-    "description": "APP_ROLE210",
-    "value": "app.role.210",
-    "permissions": [
-        "7d42b37a-ecf6-4c60-bf18-47fc4aa2735a"
-    ]
-  }
-,  "APP_ROLE211": {
-    "description": "APP_ROLE211",
-    "value": "app.role.211",
-    "permissions": [
-        "9452d3c8-62df-43b6-b791-875fd05f0fb2"
-    ]
-  }
-,  "APP_ROLE212": {
-    "description": "APP_ROLE212",
-    "value": "app.role.212",
-    "permissions": [
-        "7d42b37a-ecf6-4c60-bf18-47fc4aa2735a"
-    ]
-  }
-,  "APP_ROLE213": {
-    "description": "APP_ROLE213",
-    "value": "app.role.213",
-    "permissions": [
-        "c93c22db-1047-4ef5-ad20-a708596109c2"
-    ]
-  }
-,  "APP_ROLE214": {
-    "description": "APP_ROLE214",
-    "value": "app.role.214",
-    "permissions": [
-        "7d42b37a-ecf6-4c60-bf18-47fc4aa2735a"
-    ]
-  }
-,  "APP_ROLE215": {
-    "description": "APP_ROLE215",
-    "value": "app.role.215",
-    "permissions": [
-        "9452d3c8-62df-43b6-b791-875fd05f0fb2"
-    ]
-  }
-,  "APP_ROLE216": {
-    "description": "APP_ROLE216",
-    "value": "app.role.216",
-    "permissions": [
-        "c93c22db-1047-4ef5-ad20-a708596109c2"
-    ]
-  }
-,  "APP_ROLE217": {
-    "description": "APP_ROLE217",
-    "value": "app.role.217",
-    "permissions": [
-        "7d42b37a-ecf6-4c60-bf18-47fc4aa2735a"
-    ]
-  }
-,  "APP_ROLE218": {
-    "description": "APP_ROLE218",
-    "value": "app.role.218",
-    "permissions": [
-        "c93c22db-1047-4ef5-ad20-a708596109c2"
-    ]
-  }
-,  "APP_ROLE219": {
-    "description": "APP_ROLE219",
-    "value": "app.role.219",
-    "permissions": [
-        "9452d3c8-62df-43b6-b791-875fd05f0fb2"
-    ]
-  }
-,  "APP_ROLE220": {
-    "description": "APP_ROLE220",
-    "value": "app.role.220",
-    "permissions": [
-        "9452d3c8-62df-43b6-b791-875fd05f0fb2"
-    ]
-  }
-,  "APP_ROLE221": {
-    "description": "APP_ROLE221",
-    "value": "app.role.221",
-    "permissions": [
-        "7d42b37a-ecf6-4c60-bf18-47fc4aa2735a"
-    ]
-  }
-,  "APP_ROLE222": {
-    "description": "APP_ROLE222",
-    "value": "app.role.222",
-    "permissions": [
-        "c93c22db-1047-4ef5-ad20-a708596109c2"
-    ]
-  }
-,  "APP_ROLE223": {
-    "description": "APP_ROLE223",
-    "value": "app.role.223",
-    "permissions": [
-        "c93c22db-1047-4ef5-ad20-a708596109c2"
-    ]
-  }
-,  "APP_ROLE224": {
-    "description": "APP_ROLE224",
-    "value": "app.role.224",
-    "permissions": [
-        "7d42b37a-ecf6-4c60-bf18-47fc4aa2735a"
-    ]
-  }
-,  "APP_ROLE225": {
-    "description": "APP_ROLE225",
-    "value": "app.role.225",
-    "permissions": [
-        "9452d3c8-62df-43b6-b791-875fd05f0fb2"
-    ]
-  }
-,  "APP_ROLE226": {
-    "description": "APP_ROLE226",
-    "value": "app.role.226",
-    "permissions": [
-        "7d42b37a-ecf6-4c60-bf18-47fc4aa2735a"
-    ]
-  }
-,  "APP_ROLE227": {
-    "description": "APP_ROLE227",
-    "value": "app.role.227",
-    "permissions": [
-        "9452d3c8-62df-43b6-b791-875fd05f0fb2"
-    ]
-  }
-,  "APP_ROLE228": {
-    "description": "APP_ROLE228",
-    "value": "app.role.228",
-    "permissions": [
-        "c93c22db-1047-4ef5-ad20-a708596109c2"
-    ]
-  }
-,  "APP_ROLE229": {
-    "description": "APP_ROLE229",
-    "value": "app.role.229",
-    "permissions": [
-        "9452d3c8-62df-43b6-b791-875fd05f0fb2"
-    ]
-  }
-,  "APP_ROLE230": {
-    "description": "APP_ROLE230",
-    "value": "app.role.230",
-    "permissions": [
-        "c93c22db-1047-4ef5-ad20-a708596109c2"
-    ]
-  }
-,  "APP_ROLE231": {
-    "description": "APP_ROLE231",
-    "value": "app.role.231",
-    "permissions": [
-        "7d42b37a-ecf6-4c60-bf18-47fc4aa2735a"
-    ]
-  }
-,  "APP_ROLE232": {
-    "description": "APP_ROLE232",
-    "value": "app.role.232",
-    "permissions": [
-        "9452d3c8-62df-43b6-b791-875fd05f0fb2"
-    ]
-  }
-,  "APP_ROLE233": {
-    "description": "APP_ROLE233",
-    "value": "app.role.233",
-    "permissions": [
-        "c93c22db-1047-4ef5-ad20-a708596109c2"
-    ]
-  }
-,  "APP_ROLE234": {
-    "description": "APP_ROLE234",
-    "value": "app.role.234",
-    "permissions": [
-        "7d42b37a-ecf6-4c60-bf18-47fc4aa2735a"
-    ]
-  }
-,  "APP_ROLE235": {
-    "description": "APP_ROLE235",
-    "value": "app.role.235",
-    "permissions": [
-        "9452d3c8-62df-43b6-b791-875fd05f0fb2"
-    ]
-  }
-,  "APP_ROLE236": {
-    "description": "APP_ROLE236",
-    "value": "app.role.236",
-    "permissions": [
-        "c93c22db-1047-4ef5-ad20-a708596109c2"
-    ]
-  }
-,  "APP_ROLE237": {
-    "description": "APP_ROLE237",
-    "value": "app.role.237",
-    "permissions": [
-        "7d42b37a-ecf6-4c60-bf18-47fc4aa2735a"
-    ]
-  }
-,  "APP_ROLE238": {
-    "description": "APP_ROLE238",
-    "value": "app.role.238",
-    "permissions": [
-        "9452d3c8-62df-43b6-b791-875fd05f0fb2"
-    ]
-  }
-,  "APP_ROLE239": {
-    "description": "APP_ROLE239",
-    "value": "app.role.239",
-    "permissions": [
-        "c93c22db-1047-4ef5-ad20-a708596109c2"
-    ]
-  }
-,  "APP_ROLE240": {
-    "description": "APP_ROLE240",
-    "value": "app.role.240",
-    "permissions": [
-        "7d42b37a-ecf6-4c60-bf18-47fc4aa2735a"
-    ]
-  }
-,  "APP_ROLE241": {
-    "description": "APP_ROLE241",
-    "value": "app.role.241",
-    "permissions": [
-        "7d42b37a-ecf6-4c60-bf18-47fc4aa2735a"
-    ]
-  }
-,  "APP_ROLE242": {
-    "description": "APP_ROLE242",
-    "value": "app.role.242",
-    "permissions": [
-        "c93c22db-1047-4ef5-ad20-a708596109c2"
-    ]
-  }
-,  "APP_ROLE243": {
-    "description": "APP_ROLE243",
-    "value": "app.role.243",
-    "permissions": [
-        "9452d3c8-62df-43b6-b791-875fd05f0fb2"
-    ]
-  }
-,  "APP_ROLE244": {
-    "description": "APP_ROLE244",
-    "value": "app.role.244",
-    "permissions": [
-        "c93c22db-1047-4ef5-ad20-a708596109c2"
-    ]
-  }
-,  "APP_ROLE245": {
-    "description": "APP_ROLE245",
-    "value": "app.role.245",
-    "permissions": [
-        "9452d3c8-62df-43b6-b791-875fd05f0fb2"
-    ]
-  }
-,  "APP_ROLE246": {
-    "description": "APP_ROLE246",
-    "value": "app.role.246",
-    "permissions": [
-        "7d42b37a-ecf6-4c60-bf18-47fc4aa2735a"
-    ]
-  }
-,  "APP_ROLE247": {
-    "description": "APP_ROLE247",
-    "value": "app.role.247",
-    "permissions": [
-        "c93c22db-1047-4ef5-ad20-a708596109c2"
-    ]
-  }
-,  "APP_ROLE248": {
-    "description": "APP_ROLE248",
-    "value": "app.role.248",
-    "permissions": [
-        "9452d3c8-62df-43b6-b791-875fd05f0fb2"
-    ]
-  }
-,  "APP_ROLE249": {
-    "description": "APP_ROLE249",
-    "value": "app.role.249",
-    "permissions": [
-        "7d42b37a-ecf6-4c60-bf18-47fc4aa2735a"
-    ]
-  }
-,  "APP_ROLE250": {
-    "description": "APP_ROLE250",
-    "value": "app.role.250",
-    "permissions": [
-        "9452d3c8-62df-43b6-b791-875fd05f0fb2"
-    ]
-  }
-,  "APP_ROLE251": {
-    "description": "APP_ROLE251",
-    "value": "app.role.251",
-    "permissions": [
-        "7d42b37a-ecf6-4c60-bf18-47fc4aa2735a"
-    ]
-  }
-,  "APP_ROLE252": {
-    "description": "APP_ROLE252",
-    "value": "app.role.252",
-    "permissions": [
-        "c93c22db-1047-4ef5-ad20-a708596109c2"
-    ]
-  }
-,  "APP_ROLE253": {
-    "description": "APP_ROLE253",
-    "value": "app.role.253",
-    "permissions": [
-        "7d42b37a-ecf6-4c60-bf18-47fc4aa2735a"
-    ]
-  }
-,  "APP_ROLE254": {
-    "description": "APP_ROLE254",
-    "value": "app.role.254",
-    "permissions": [
-        "c93c22db-1047-4ef5-ad20-a708596109c2"
-    ]
-  }
-,  "APP_ROLE255": {
-    "description": "APP_ROLE255",
-    "value": "app.role.255",
-    "permissions": [
-        "9452d3c8-62df-43b6-b791-875fd05f0fb2"
-    ]
-  }
-,  "APP_ROLE256": {
-    "description": "APP_ROLE256",
-    "value": "app.role.256",
-    "permissions": [
-        "7d42b37a-ecf6-4c60-bf18-47fc4aa2735a"
-    ]
-  }
-,  "APP_ROLE257": {
-    "description": "APP_ROLE257",
-    "value": "app.role.257",
-    "permissions": [
-        "c93c22db-1047-4ef5-ad20-a708596109c2"
-    ]
-  }
-,  "APP_ROLE258": {
-    "description": "APP_ROLE258",
-    "value": "app.role.258",
-    "permissions": [
-        "9452d3c8-62df-43b6-b791-875fd05f0fb2"
-    ]
-  }
-,  "APP_ROLE259": {
-    "description": "APP_ROLE259",
-    "value": "app.role.259",
-    "permissions": [
-        "7d42b37a-ecf6-4c60-bf18-47fc4aa2735a"
-    ]
-  }
-,  "APP_ROLE260": {
-    "description": "APP_ROLE260",
-    "value": "app.role.260",
-    "permissions": [
-        "9452d3c8-62df-43b6-b791-875fd05f0fb2"
-    ]
-  }
-,  "APP_ROLE261": {
-    "description": "APP_ROLE261",
-    "value": "app.role.261",
-    "permissions": [
-        "c93c22db-1047-4ef5-ad20-a708596109c2"
-    ]
-  }
-,  "APP_ROLE262": {
-    "description": "APP_ROLE262",
-    "value": "app.role.262",
-    "permissions": [
-        "9452d3c8-62df-43b6-b791-875fd05f0fb2"
-    ]
-  }
-,  "APP_ROLE263": {
-    "description": "APP_ROLE263",
-    "value": "app.role.263",
-    "permissions": [
-        "c93c22db-1047-4ef5-ad20-a708596109c2"
-    ]
-  }
-,  "APP_ROLE264": {
-    "description": "APP_ROLE264",
-    "value": "app.role.264",
-    "permissions": [
-        "7d42b37a-ecf6-4c60-bf18-47fc4aa2735a"
-    ]
-  }
-,  "APP_ROLE265": {
-    "description": "APP_ROLE265",
-    "value": "app.role.265",
-    "permissions": [
-        "9452d3c8-62df-43b6-b791-875fd05f0fb2"
-    ]
-  }
-,  "APP_ROLE266": {
-    "description": "APP_ROLE266",
-    "value": "app.role.266",
-    "permissions": [
-        "c93c22db-1047-4ef5-ad20-a708596109c2"
-    ]
-  }
-,  "APP_ROLE267": {
-    "description": "APP_ROLE267",
-    "value": "app.role.267",
-    "permissions": [
-        "7d42b37a-ecf6-4c60-bf18-47fc4aa2735a"
-    ]
-  }
-,  "APP_ROLE268": {
-    "description": "APP_ROLE268",
-    "value": "app.role.268",
-    "permissions": [
-        "7d42b37a-ecf6-4c60-bf18-47fc4aa2735a"
-    ]
-  }
-,  "APP_ROLE269": {
-    "description": "APP_ROLE269",
-    "value": "app.role.269",
-    "permissions": [
-        "9452d3c8-62df-43b6-b791-875fd05f0fb2"
-    ]
-  }
-,  "APP_ROLE270": {
-    "description": "APP_ROLE270",
-    "value": "app.role.270",
-    "permissions": [
-        "c93c22db-1047-4ef5-ad20-a708596109c2"
-    ]
-  }
-,  "APP_ROLE271": {
-    "description": "APP_ROLE271",
-    "value": "app.role.271",
-    "permissions": [
-        "9452d3c8-62df-43b6-b791-875fd05f0fb2"
-    ]
-  }
-,  "APP_ROLE272": {
-    "description": "APP_ROLE272",
-    "value": "app.role.272",
-    "permissions": [
-        "c93c22db-1047-4ef5-ad20-a708596109c2"
-    ]
-  }
-,  "APP_ROLE273": {
-    "description": "APP_ROLE273",
-    "value": "app.role.273",
-    "permissions": [
-        "7d42b37a-ecf6-4c60-bf18-47fc4aa2735a"
-    ]
-  }
-,  "APP_ROLE274": {
-    "description": "APP_ROLE274",
-    "value": "app.role.274",
-    "permissions": [
-        "7d42b37a-ecf6-4c60-bf18-47fc4aa2735a"
-    ]
-  }
-,  "APP_ROLE275": {
-    "description": "APP_ROLE275",
-    "value": "app.role.275",
-    "permissions": [
-        "9452d3c8-62df-43b6-b791-875fd05f0fb2"
-    ]
-  }
-,  "APP_ROLE276": {
-    "description": "APP_ROLE276",
-    "value": "app.role.276",
-    "permissions": [
-        "c93c22db-1047-4ef5-ad20-a708596109c2"
-    ]
-  }
-,  "APP_ROLE277": {
-    "description": "APP_ROLE277",
-    "value": "app.role.277",
-    "permissions": [
-        "7d42b37a-ecf6-4c60-bf18-47fc4aa2735a"
-    ]
-  }
-,  "APP_ROLE278": {
-    "description": "APP_ROLE278",
-    "value": "app.role.278",
-    "permissions": [
-        "9452d3c8-62df-43b6-b791-875fd05f0fb2"
-    ]
-  }
-,  "APP_ROLE279": {
-    "description": "APP_ROLE279",
-    "value": "app.role.279",
-    "permissions": [
-        "c93c22db-1047-4ef5-ad20-a708596109c2"
-    ]
-  }
-,  "APP_ROLE280": {
-    "description": "APP_ROLE280",
-    "value": "app.role.280",
-    "permissions": [
-        "7d42b37a-ecf6-4c60-bf18-47fc4aa2735a"
-    ]
-  }
-,  "APP_ROLE281": {
-    "description": "APP_ROLE281",
-    "value": "app.role.281",
-    "permissions": [
-        "c93c22db-1047-4ef5-ad20-a708596109c2"
-    ]
-  }
-,  "APP_ROLE282": {
-    "description": "APP_ROLE282",
-    "value": "app.role.282",
-    "permissions": [
-        "9452d3c8-62df-43b6-b791-875fd05f0fb2"
-    ]
-  }
-,  "APP_ROLE283": {
-    "description": "APP_ROLE283",
-    "value": "app.role.283",
-    "permissions": [
-        "c93c22db-1047-4ef5-ad20-a708596109c2"
-    ]
-  }
-,  "APP_ROLE284": {
-    "description": "APP_ROLE284",
-    "value": "app.role.284",
-    "permissions": [
-        "7d42b37a-ecf6-4c60-bf18-47fc4aa2735a"
-    ]
-  }
-,  "APP_ROLE285": {
-    "description": "APP_ROLE285",
-    "value": "app.role.285",
-    "permissions": [
-        "9452d3c8-62df-43b6-b791-875fd05f0fb2"
-    ]
-  }
-,  "APP_ROLE286": {
-    "description": "APP_ROLE286",
-    "value": "app.role.286",
-    "permissions": [
-        "9452d3c8-62df-43b6-b791-875fd05f0fb2"
-    ]
-  }
-,  "APP_ROLE287": {
-    "description": "APP_ROLE287",
-    "value": "app.role.287",
-    "permissions": [
-        "7d42b37a-ecf6-4c60-bf18-47fc4aa2735a"
-    ]
-  }
-,  "APP_ROLE288": {
-    "description": "APP_ROLE288",
-    "value": "app.role.288",
-    "permissions": [
-        "c93c22db-1047-4ef5-ad20-a708596109c2"
-    ]
-  }
-,  "APP_ROLE289": {
-    "description": "APP_ROLE289",
-    "value": "app.role.289",
-    "permissions": [
-        "c93c22db-1047-4ef5-ad20-a708596109c2"
-    ]
-  }
-,  "APP_ROLE290": {
-    "description": "APP_ROLE290",
-    "value": "app.role.290",
-    "permissions": [
-        "7d42b37a-ecf6-4c60-bf18-47fc4aa2735a"
-    ]
-  }
-,  "APP_ROLE291": {
-    "description": "APP_ROLE291",
-    "value": "app.role.291",
-    "permissions": [
-        "9452d3c8-62df-43b6-b791-875fd05f0fb2"
-    ]
-  }
-,  "APP_ROLE292": {
-    "description": "APP_ROLE292",
-    "value": "app.role.292",
-    "permissions": [
-        "7d42b37a-ecf6-4c60-bf18-47fc4aa2735a"
-    ]
-  }
-,  "APP_ROLE293": {
-    "description": "APP_ROLE293",
-    "value": "app.role.293",
-    "permissions": [
-        "c93c22db-1047-4ef5-ad20-a708596109c2"
-    ]
-  }
-,  "APP_ROLE294": {
-    "description": "APP_ROLE294",
-    "value": "app.role.294",
-    "permissions": [
-        "9452d3c8-62df-43b6-b791-875fd05f0fb2"
-    ]
-  }
-,  "APP_ROLE295": {
-    "description": "APP_ROLE295",
-    "value": "app.role.295",
-    "permissions": [
-        "c93c22db-1047-4ef5-ad20-a708596109c2"
-    ]
-  }
-,  "APP_ROLE296": {
-    "description": "APP_ROLE296",
-    "value": "app.role.296",
-    "permissions": [
-        "7d42b37a-ecf6-4c60-bf18-47fc4aa2735a"
-    ]
-  }
-,  "APP_ROLE297": {
-    "description": "APP_ROLE297",
-    "value": "app.role.297",
-    "permissions": [
-        "9452d3c8-62df-43b6-b791-875fd05f0fb2"
-    ]
-  }
-,  "APP_ROLE298": {
-    "description": "APP_ROLE298",
-    "value": "app.role.298",
-    "permissions": [
-        "7d42b37a-ecf6-4c60-bf18-47fc4aa2735a"
-    ]
-  }
-,  "APP_ROLE299": {
-    "description": "APP_ROLE299",
-    "value": "app.role.299",
-    "permissions": [
-        "9452d3c8-62df-43b6-b791-875fd05f0fb2"
-    ]
-  }
-,  "APP_ROLE300": {
-    "description": "APP_ROLE300",
-    "value": "app.role.300",
-    "permissions": [
-        "c93c22db-1047-4ef5-ad20-a708596109c2"
-    ]
-  }
-,  "APP_ROLE301": {
-    "description": "APP_ROLE301",
-    "value": "app.role.301",
-    "permissions": [
-        "9452d3c8-62df-43b6-b791-875fd05f0fb2"
-    ]
-  }
-,  "APP_ROLE302": {
-    "description": "APP_ROLE302",
-    "value": "app.role.302",
-    "permissions": [
-        "7d42b37a-ecf6-4c60-bf18-47fc4aa2735a"
-    ]
-  }
-,  "APP_ROLE303": {
-    "description": "APP_ROLE303",
-    "value": "app.role.303",
-    "permissions": [
-        "c93c22db-1047-4ef5-ad20-a708596109c2"
-    ]
-  }
-,  "APP_ROLE304": {
-    "description": "APP_ROLE304",
-    "value": "app.role.304",
-    "permissions": [
-        "9452d3c8-62df-43b6-b791-875fd05f0fb2"
-    ]
-  }
-,  "APP_ROLE305": {
-    "description": "APP_ROLE305",
-    "value": "app.role.305",
-    "permissions": [
-        "7d42b37a-ecf6-4c60-bf18-47fc4aa2735a"
-    ]
-  }
-,  "APP_ROLE306": {
-    "description": "APP_ROLE306",
-    "value": "app.role.306",
-    "permissions": [
-        "c93c22db-1047-4ef5-ad20-a708596109c2"
-    ]
-  }
-,  "APP_ROLE307": {
-    "description": "APP_ROLE307",
-    "value": "app.role.307",
-    "permissions": [
-        "9452d3c8-62df-43b6-b791-875fd05f0fb2"
-    ]
-  }
-,  "APP_ROLE308": {
-    "description": "APP_ROLE308",
-    "value": "app.role.308",
-    "permissions": [
-        "c93c22db-1047-4ef5-ad20-a708596109c2"
-    ]
-  }
-,  "APP_ROLE309": {
-    "description": "APP_ROLE309",
-    "value": "app.role.309",
-    "permissions": [
-        "7d42b37a-ecf6-4c60-bf18-47fc4aa2735a"
-    ]
-  }
-,  "APP_ROLE310": {
-    "description": "APP_ROLE310",
-    "value": "app.role.310",
-    "permissions": [
-        "c93c22db-1047-4ef5-ad20-a708596109c2"
-    ]
-  }
-,  "APP_ROLE311": {
-    "description": "APP_ROLE311",
-    "value": "app.role.311",
-    "permissions": [
-        "9452d3c8-62df-43b6-b791-875fd05f0fb2"
-    ]
-  }
-,  "APP_ROLE312": {
-    "description": "APP_ROLE312",
-    "value": "app.role.312",
-    "permissions": [
-        "7d42b37a-ecf6-4c60-bf18-47fc4aa2735a"
-    ]
-  }
-,  "APP_ROLE313": {
-    "description": "APP_ROLE313",
-    "value": "app.role.313",
-    "permissions": [
-        "9452d3c8-62df-43b6-b791-875fd05f0fb2"
-    ]
-  }
-,  "APP_ROLE314": {
-    "description": "APP_ROLE314",
-    "value": "app.role.314",
-    "permissions": [
-        "c93c22db-1047-4ef5-ad20-a708596109c2"
-    ]
-  }
-,  "APP_ROLE315": {
-    "description": "APP_ROLE315",
-    "value": "app.role.315",
-    "permissions": [
-        "7d42b37a-ecf6-4c60-bf18-47fc4aa2735a"
-    ]
-  }
-,  "APP_ROLE316": {
-    "description": "APP_ROLE316",
-    "value": "app.role.316",
-    "permissions": [
-        "c93c22db-1047-4ef5-ad20-a708596109c2"
-    ]
-  }
-,  "APP_ROLE317": {
-    "description": "APP_ROLE317",
-    "value": "app.role.317",
-    "permissions": [
-        "9452d3c8-62df-43b6-b791-875fd05f0fb2"
-    ]
-  }
-,  "APP_ROLE318": {
-    "description": "APP_ROLE318",
-    "value": "app.role.318",
-    "permissions": [
-        "7d42b37a-ecf6-4c60-bf18-47fc4aa2735a"
-    ]
-  }
-,  "APP_ROLE319": {
-    "description": "APP_ROLE319",
-    "value": "app.role.319",
-    "permissions": [
-        "9452d3c8-62df-43b6-b791-875fd05f0fb2"
-    ]
-  }
-,  "APP_ROLE320": {
-    "description": "APP_ROLE320",
-    "value": "app.role.320",
-    "permissions": [
-        "c93c22db-1047-4ef5-ad20-a708596109c2"
-    ]
-  }
-,  "APP_ROLE321": {
-    "description": "APP_ROLE321",
-    "value": "app.role.321",
-    "permissions": [
-        "7d42b37a-ecf6-4c60-bf18-47fc4aa2735a"
-    ]
-  }
-,  "APP_ROLE322": {
-    "description": "APP_ROLE322",
-    "value": "app.role.322",
-    "permissions": [
-        "9452d3c8-62df-43b6-b791-875fd05f0fb2"
-    ]
-  }
-,  "APP_ROLE323": {
-    "description": "APP_ROLE323",
-    "value": "app.role.323",
-    "permissions": [
-        "7d42b37a-ecf6-4c60-bf18-47fc4aa2735a"
-    ]
-  }
-,  "APP_ROLE324": {
-    "description": "APP_ROLE324",
-    "value": "app.role.324",
-    "permissions": [
-        "c93c22db-1047-4ef5-ad20-a708596109c2"
-    ]
-  }
-,  "APP_ROLE325": {
-    "description": "APP_ROLE325",
-    "value": "app.role.325",
-    "permissions": [
-        "9452d3c8-62df-43b6-b791-875fd05f0fb2"
-    ]
-  }
-,  "APP_ROLE326": {
-    "description": "APP_ROLE326",
-    "value": "app.role.326",
-    "permissions": [
-        "c93c22db-1047-4ef5-ad20-a708596109c2"
-    ]
-  }
-,  "APP_ROLE327": {
-    "description": "APP_ROLE327",
-    "value": "app.role.327",
-    "permissions": [
-        "7d42b37a-ecf6-4c60-bf18-47fc4aa2735a"
-    ]
-  }
-,  "APP_ROLE328": {
-    "description": "APP_ROLE328",
-    "value": "app.role.328",
-    "permissions": [
-        "9452d3c8-62df-43b6-b791-875fd05f0fb2"
-    ]
-  }
-,  "APP_ROLE329": {
-    "description": "APP_ROLE329",
-    "value": "app.role.329",
-    "permissions": [
-        "c93c22db-1047-4ef5-ad20-a708596109c2"
-    ]
-  }
-,  "APP_ROLE330": {
-    "description": "APP_ROLE330",
-    "value": "app.role.330",
-    "permissions": [
-        "7d42b37a-ecf6-4c60-bf18-47fc4aa2735a"
-    ]
-  }
-,  "APP_ROLE331": {
-    "description": "APP_ROLE331",
-    "value": "app.role.331",
-    "permissions": [
-        "7d42b37a-ecf6-4c60-bf18-47fc4aa2735a"
-    ]
-  }
-,  "APP_ROLE332": {
-    "description": "APP_ROLE332",
-    "value": "app.role.332",
-    "permissions": [
-        "9452d3c8-62df-43b6-b791-875fd05f0fb2"
-    ]
-  }
-,  "APP_ROLE333": {
-    "description": "APP_ROLE333",
-    "value": "app.role.333",
-    "permissions": [
-        "c93c22db-1047-4ef5-ad20-a708596109c2"
-    ]
-  }
-,  "APP_ROLE334": {
-    "description": "APP_ROLE334",
-    "value": "app.role.334",
-    "permissions": [
-        "7d42b37a-ecf6-4c60-bf18-47fc4aa2735a"
-    ]
-  }
-,  "APP_ROLE335": {
-    "description": "APP_ROLE335",
-    "value": "app.role.335",
-    "permissions": [
-        "c93c22db-1047-4ef5-ad20-a708596109c2"
-    ]
-  }
-,  "APP_ROLE336": {
-    "description": "APP_ROLE336",
-    "value": "app.role.336",
-    "permissions": [
-        "9452d3c8-62df-43b6-b791-875fd05f0fb2"
-    ]
-  }
-,  "APP_ROLE337": {
-    "description": "APP_ROLE337",
-    "value": "app.role.337",
-    "permissions": [
-        "c93c22db-1047-4ef5-ad20-a708596109c2"
-    ]
-  }
-,  "APP_ROLE338": {
-    "description": "APP_ROLE338",
-    "value": "app.role.338",
-    "permissions": [
-        "7d42b37a-ecf6-4c60-bf18-47fc4aa2735a"
-    ]
-  }
-,  "APP_ROLE339": {
-    "description": "APP_ROLE339",
-    "value": "app.role.339",
-    "permissions": [
-        "9452d3c8-62df-43b6-b791-875fd05f0fb2"
-    ]
-  }
-,  "APP_ROLE340": {
-    "description": "APP_ROLE340",
-    "value": "app.role.340",
-    "permissions": [
-        "9452d3c8-62df-43b6-b791-875fd05f0fb2"
-    ]
-  }
-,  "APP_ROLE341": {
-    "description": "APP_ROLE341",
-    "value": "app.role.341",
-    "permissions": [
-        "c93c22db-1047-4ef5-ad20-a708596109c2"
-    ]
-  }
-,  "APP_ROLE342": {
-    "description": "APP_ROLE342",
-    "value": "app.role.342",
-    "permissions": [
-        "7d42b37a-ecf6-4c60-bf18-47fc4aa2735a"
-    ]
-  }
-,  "APP_ROLE343": {
-    "description": "APP_ROLE343",
-    "value": "app.role.343",
-    "permissions": [
-        "9452d3c8-62df-43b6-b791-875fd05f0fb2"
-    ]
-  }
-,  "APP_ROLE344": {
-    "description": "APP_ROLE344",
-    "value": "app.role.344",
-    "permissions": [
-        "c93c22db-1047-4ef5-ad20-a708596109c2"
-    ]
-  }
-,  "APP_ROLE345": {
-    "description": "APP_ROLE345",
-    "value": "app.role.345",
-    "permissions": [
-        "7d42b37a-ecf6-4c60-bf18-47fc4aa2735a"
-    ]
-  }
-,  "APP_ROLE346": {
-    "description": "APP_ROLE346",
-    "value": "app.role.346",
-    "permissions": [
-        "c93c22db-1047-4ef5-ad20-a708596109c2"
-    ]
-  }
-,  "APP_ROLE347": {
-    "description": "APP_ROLE347",
-    "value": "app.role.347",
-    "permissions": [
-        "9452d3c8-62df-43b6-b791-875fd05f0fb2"
-    ]
-  }
-,  "APP_ROLE348": {
-    "description": "APP_ROLE348",
-    "value": "app.role.348",
-    "permissions": [
-        "7d42b37a-ecf6-4c60-bf18-47fc4aa2735a"
-    ]
-  }
-,  "APP_ROLE349": {
-    "description": "APP_ROLE349",
-    "value": "app.role.349",
-    "permissions": [
-        "c93c22db-1047-4ef5-ad20-a708596109c2"
-    ]
-  }
-,  "APP_ROLE350": {
-    "description": "APP_ROLE350",
-    "value": "app.role.350",
-    "permissions": [
-        "7d42b37a-ecf6-4c60-bf18-47fc4aa2735a"
-    ]
-  }
-,  "APP_ROLE351": {
-    "description": "APP_ROLE351",
-    "value": "app.role.351",
-    "permissions": [
-        "9452d3c8-62df-43b6-b791-875fd05f0fb2"
-    ]
-  }
-,  "APP_ROLE352": {
-    "description": "APP_ROLE352",
-    "value": "app.role.352",
-    "permissions": [
-        "7d42b37a-ecf6-4c60-bf18-47fc4aa2735a"
-    ]
-  }
-,  "APP_ROLE353": {
-    "description": "APP_ROLE353",
-    "value": "app.role.353",
-    "permissions": [
-        "9452d3c8-62df-43b6-b791-875fd05f0fb2"
-    ]
-  }
-,  "APP_ROLE354": {
-    "description": "APP_ROLE354",
-    "value": "app.role.354",
-    "permissions": [
-        "c93c22db-1047-4ef5-ad20-a708596109c2"
-    ]
-  }
-,  "APP_ROLE355": {
-    "description": "APP_ROLE355",
-    "value": "app.role.355",
-    "permissions": [
-        "c93c22db-1047-4ef5-ad20-a708596109c2"
-    ]
-  }
-,  "APP_ROLE356": {
-    "description": "APP_ROLE356",
-    "value": "app.role.356",
-    "permissions": [
-        "9452d3c8-62df-43b6-b791-875fd05f0fb2"
-    ]
-  }
-,  "APP_ROLE357": {
-    "description": "APP_ROLE357",
-    "value": "app.role.357",
-    "permissions": [
-        "7d42b37a-ecf6-4c60-bf18-47fc4aa2735a"
-    ]
-  }
-,  "APP_ROLE358": {
-    "description": "APP_ROLE358",
-    "value": "app.role.358",
-    "permissions": [
-        "c93c22db-1047-4ef5-ad20-a708596109c2"
-    ]
-  }
-,  "APP_ROLE359": {
-    "description": "APP_ROLE359",
-    "value": "app.role.359",
-    "permissions": [
-        "9452d3c8-62df-43b6-b791-875fd05f0fb2"
-    ]
-  }
-,  "APP_ROLE360": {
-    "description": "APP_ROLE360",
-    "value": "app.role.360",
-    "permissions": [
-        "7d42b37a-ecf6-4c60-bf18-47fc4aa2735a"
-    ]
-  }
-,  "APP_ROLE361": {
-    "description": "APP_ROLE361",
-    "value": "app.role.361",
-    "permissions": [
-        "c93c22db-1047-4ef5-ad20-a708596109c2"
-    ]
-  }
-,  "APP_ROLE362": {
-    "description": "APP_ROLE362",
-    "value": "app.role.362",
-    "permissions": [
-        "9452d3c8-62df-43b6-b791-875fd05f0fb2"
-    ]
-  }
-,  "APP_ROLE363": {
-    "description": "APP_ROLE363",
-    "value": "app.role.363",
-    "permissions": [
-        "7d42b37a-ecf6-4c60-bf18-47fc4aa2735a"
-    ]
-  }
-,  "APP_ROLE364": {
-    "description": "APP_ROLE364",
-    "value": "app.role.364",
-    "permissions": [
-        "7d42b37a-ecf6-4c60-bf18-47fc4aa2735a"
-    ]
-  }
-,  "APP_ROLE365": {
-    "description": "APP_ROLE365",
-    "value": "app.role.365",
-    "permissions": [
-        "9452d3c8-62df-43b6-b791-875fd05f0fb2"
-    ]
-  }
-,  "APP_ROLE366": {
-    "description": "APP_ROLE366",
-    "value": "app.role.366",
-    "permissions": [
-        "c93c22db-1047-4ef5-ad20-a708596109c2"
-    ]
-  }
-,  "APP_ROLE367": {
-    "description": "APP_ROLE367",
-    "value": "app.role.367",
-    "permissions": [
-        "9452d3c8-62df-43b6-b791-875fd05f0fb2"
-    ]
-  }
-,  "APP_ROLE368": {
-    "description": "APP_ROLE368",
-    "value": "app.role.368",
-    "permissions": [
-        "7d42b37a-ecf6-4c60-bf18-47fc4aa2735a"
-    ]
-  }
-,  "APP_ROLE369": {
-    "description": "APP_ROLE369",
-    "value": "app.role.369",
-    "permissions": [
-        "c93c22db-1047-4ef5-ad20-a708596109c2"
-    ]
-  }
-,  "APP_ROLE370": {
-    "description": "APP_ROLE370",
-    "value": "app.role.370",
-    "permissions": [
-        "7d42b37a-ecf6-4c60-bf18-47fc4aa2735a"
-    ]
-  }
-,  "APP_ROLE371": {
-    "description": "APP_ROLE371",
-    "value": "app.role.371",
-    "permissions": [
-        "c93c22db-1047-4ef5-ad20-a708596109c2"
-    ]
-  }
-,  "APP_ROLE372": {
-    "description": "APP_ROLE372",
-    "value": "app.role.372",
-    "permissions": [
-        "9452d3c8-62df-43b6-b791-875fd05f0fb2"
-    ]
-  }
-,  "APP_ROLE373": {
-    "description": "APP_ROLE373",
-    "value": "app.role.373",
-    "permissions": [
-        "9452d3c8-62df-43b6-b791-875fd05f0fb2"
-    ]
-  }
-,  "APP_ROLE374": {
-    "description": "APP_ROLE374",
-    "value": "app.role.374",
-    "permissions": [
-        "7d42b37a-ecf6-4c60-bf18-47fc4aa2735a"
-    ]
-  }
-,  "APP_ROLE375": {
-    "description": "APP_ROLE375",
-    "value": "app.role.375",
-    "permissions": [
-        "c93c22db-1047-4ef5-ad20-a708596109c2"
-    ]
-  }
-,  "APP_ROLE376": {
-    "description": "APP_ROLE376",
-    "value": "app.role.376",
-    "permissions": [
-        "c93c22db-1047-4ef5-ad20-a708596109c2"
-    ]
-  }
-,  "APP_ROLE377": {
-    "description": "APP_ROLE377",
-    "value": "app.role.377",
-    "permissions": [
-        "9452d3c8-62df-43b6-b791-875fd05f0fb2"
-    ]
-  }
-,  "APP_ROLE378": {
-    "description": "APP_ROLE378",
-    "value": "app.role.378",
-    "permissions": [
-        "7d42b37a-ecf6-4c60-bf18-47fc4aa2735a"
-    ]
-  }
-,  "APP_ROLE379": {
-    "description": "APP_ROLE379",
-    "value": "app.role.379",
-    "permissions": [
-        "c93c22db-1047-4ef5-ad20-a708596109c2"
-    ]
-  }
-,  "APP_ROLE380": {
-    "description": "APP_ROLE380",
-    "value": "app.role.380",
-    "permissions": [
-        "7d42b37a-ecf6-4c60-bf18-47fc4aa2735a"
-    ]
-  }
-,  "APP_ROLE381": {
-    "description": "APP_ROLE381",
-    "value": "app.role.381",
-    "permissions": [
-        "9452d3c8-62df-43b6-b791-875fd05f0fb2"
-    ]
-  }
-,  "APP_ROLE382": {
-    "description": "APP_ROLE382",
-    "value": "app.role.382",
-    "permissions": [
-        "c93c22db-1047-4ef5-ad20-a708596109c2"
-    ]
-  }
-,  "APP_ROLE383": {
-    "description": "APP_ROLE383",
-    "value": "app.role.383",
-    "permissions": [
-        "7d42b37a-ecf6-4c60-bf18-47fc4aa2735a"
-    ]
-  }
-,  "APP_ROLE384": {
-    "description": "APP_ROLE384",
-    "value": "app.role.384",
-    "permissions": [
-        "9452d3c8-62df-43b6-b791-875fd05f0fb2"
-    ]
-  }
-,  "APP_ROLE385": {
-    "description": "APP_ROLE385",
-    "value": "app.role.385",
-    "permissions": [
-        "c93c22db-1047-4ef5-ad20-a708596109c2"
-    ]
-  }
-,  "APP_ROLE386": {
-    "description": "APP_ROLE386",
-    "value": "app.role.386",
-    "permissions": [
-        "7d42b37a-ecf6-4c60-bf18-47fc4aa2735a"
-    ]
-  }
-,  "APP_ROLE387": {
-    "description": "APP_ROLE387",
-    "value": "app.role.387",
-    "permissions": [
-        "9452d3c8-62df-43b6-b791-875fd05f0fb2"
-    ]
-  }
-,  "APP_ROLE388": {
-    "description": "APP_ROLE388",
-    "value": "app.role.388",
-    "permissions": [
-        "c93c22db-1047-4ef5-ad20-a708596109c2"
-    ]
-  }
-,  "APP_ROLE389": {
-    "description": "APP_ROLE389",
-    "value": "app.role.389",
-    "permissions": [
-        "7d42b37a-ecf6-4c60-bf18-47fc4aa2735a"
-    ]
-  }
-,  "APP_ROLE390": {
-    "description": "APP_ROLE390",
-    "value": "app.role.390",
-    "permissions": [
-        "9452d3c8-62df-43b6-b791-875fd05f0fb2"
-    ]
-  }
-,  "APP_ROLE391": {
-    "description": "APP_ROLE391",
-    "value": "app.role.391",
-    "permissions": [
-        "9452d3c8-62df-43b6-b791-875fd05f0fb2"
-    ]
-  }
-,  "APP_ROLE392": {
-    "description": "APP_ROLE392",
-    "value": "app.role.392",
-    "permissions": [
-        "c93c22db-1047-4ef5-ad20-a708596109c2"
-    ]
-  }
-,  "APP_ROLE393": {
-    "description": "APP_ROLE393",
-    "value": "app.role.393",
-    "permissions": [
-        "7d42b37a-ecf6-4c60-bf18-47fc4aa2735a"
-    ]
-  }
-,  "APP_ROLE394": {
-    "description": "APP_ROLE394",
-    "value": "app.role.394",
-    "permissions": [
-        "c93c22db-1047-4ef5-ad20-a708596109c2"
-    ]
-  }
-,  "APP_ROLE395": {
-    "description": "APP_ROLE395",
-    "value": "app.role.395",
-    "permissions": [
-        "9452d3c8-62df-43b6-b791-875fd05f0fb2"
-    ]
-  }
-,  "APP_ROLE396": {
-    "description": "APP_ROLE396",
-    "value": "app.role.396",
-    "permissions": [
-        "7d42b37a-ecf6-4c60-bf18-47fc4aa2735a"
-    ]
-  }
-,  "APP_ROLE397": {
-    "description": "APP_ROLE397",
-    "value": "app.role.397",
-    "permissions": [
-        "9452d3c8-62df-43b6-b791-875fd05f0fb2"
-    ]
-  }
-,  "APP_ROLE398": {
-    "description": "APP_ROLE398",
-    "value": "app.role.398",
-    "permissions": [
-        "7d42b37a-ecf6-4c60-bf18-47fc4aa2735a"
-    ]
-  }
-,  "APP_ROLE399": {
-    "description": "APP_ROLE399",
-    "value": "app.role.399",
-    "permissions": [
-        "c93c22db-1047-4ef5-ad20-a708596109c2"
-    ]
-  }
-,  "APP_ROLE400": {
-    "description": "APP_ROLE400",
-    "value": "app.role.400",
-    "permissions": [
-        "9452d3c8-62df-43b6-b791-875fd05f0fb2"
     ]
   }
 }
